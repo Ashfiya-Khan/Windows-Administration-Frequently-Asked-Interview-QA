@@ -89,6 +89,12 @@ Networking and Security Questions:
 - Configuring VPN Connection
 - Firewall Configuration
 
+## Basic Windows Administration Questions:
+### Windows Registry
+
+* **What is the Windows Registry?**
+    - The Windows Registry is a centralized database that stores configuration settings and options on Microsoft Windows operating systems.
+
 ### Found this project useful :heart:
 
 * Support by clicking the :star: button on the upper right of this page. :v:
