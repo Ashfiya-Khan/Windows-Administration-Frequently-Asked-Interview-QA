@@ -94,6 +94,36 @@ Networking and Security Questions:
 
 * **What is the Windows Registry?**
     - The Windows Registry is a centralized database that stores configuration settings and options on Microsoft Windows operating systems.
+    -  It serves as a centralized repository for information about the system, hardware, installed software, user preferences, and other settings.
+    -  The Registry is organized into a tree-like structure, similar to a file system, with keys and subkeys representing different aspects of the system and its components.
+    -  Users can access the Registry through the Registry Editor (regedit.exe), a built-in Windows tool that allows them to view and edit the Registry.
+
+* **How do you access the Windows Task Manager?**
+    - Press Ctrl + Shift + Esc or Ctrl + Alt + Del and select Task Manager.
+
+* **Explain the purpose of the Device Manager.**
+    - Device Manager is a tool to manage hardware devices installed on a Windows computer, update device drivers, and troubleshoot issues.
+ 
+* **What is the purpose of the MSCONFIG utility?**
+    - MSCONFIG is a system configuration utility used to manage system startup, services, and boot options.
+ 
+* **How do you open a command prompt in Windows?**
+    - You can open the Command Prompt by typing "cmd" in the Run dialog (Win + R).
+ 
+* **Explain the difference between a local user account and a domain user account.**
+    - A local user account is created and managed on a specific computer, while a domain user account is managed centrally on a Windows Server domain controller.
+ 
+* **What is the purpose of the Event Viewer in Windows?**
+    - The Event Viewer is a tool that allows you to view and analyze system events, logs, and error messages.
+ 
+* **How do you enable Remote Desktop on a Windows computer?**
+    - Go to System Properties > Remote tab > enable "Allow remote connections to this computer."
+ 
+* **What is Active Directory?**
+    - Active Directory is a directory service used to manage resources in a Windows network, including users, computers and printers.
+
+* **Explain the purpose of Group Policy in Windows.**
+    - Group Policy is used to manage and configure the security settings of computers and users in an Active Directory environment.
 
 ### Found this project useful :heart:
 
